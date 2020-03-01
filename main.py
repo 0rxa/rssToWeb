@@ -44,7 +44,12 @@ def push():
         print("No file provided")
         return {}
     eq = parseXml(open('./tmpfile'))
-    eq.save()
+
+    if not Earthquake.select()\
+            .where(Earthquake.datetime == eq.datetime,\
+                Earthquake.depth == eq.depth, \
+                Earthquake.position == eq.position):
+        eq.save()
     os.remove('./tmpfile')
     return {},200
     
