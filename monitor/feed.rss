@@ -1,0 +1,3809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1.">
+  <channel>
+    <title>Recent Events</title>
+    <link>http://192.168.1.37/events/map</link>
+    <pubDate>Sun, 10 Mar 2019 19:32:01 GMT</pubDate>
+    <description>Most recent events</description>
+    <item>
+      <title>2019-03-10 18:54:48.310; 42.5742 N, 18.6098 E; 1.7 Ml; 0.9 km from Ovsine, Kotor, Montenegro</title>
+      <link>http://192.168.1.37/events/485/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_485" class="info_window">
+  <h3>Event <a href="/events/485/summary">20190310-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-10 18:54:48.310</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>42.5742&deg;N,&nbsp;18.6098&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.9 km from Ovsine, Kotor, Montenegro</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td>Ne tarushes</td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>4.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 10 Mar 2019 19:32:01 GMT</pubDate>
+      <guid>http://192.168.1.37/events/485/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-10 06:46:27.420; 41.3303 N, 20.2573 E; 1.7 Ml; 1.6 km from Mëxixë, Elbasan, Albania</title>
+      <link>http://192.168.1.37/events/484/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_484" class="info_window">
+  <h3>Event <a href="/events/484/summary">20190310-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-10 06:46:27.420</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.3303&deg;N,&nbsp;20.2573&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.6 km from Mëxixë, Elbasan, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 10 Mar 2019 11:21:33 GMT</pubDate>
+      <guid>http://192.168.1.37/events/484/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 22:21:40.450; 39.4007 N, 20.9612 E; 2.8 Ml; 1.0 km from Kóniaris, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/483/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_483" class="info_window">
+  <h3>Event <a href="/events/483/summary">20190309-7</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 22:21:40.450</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.4007&deg;N,&nbsp;20.9612&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Kóniaris, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>5.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 22:34:06 GMT</pubDate>
+      <guid>http://192.168.1.37/events/483/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 12:24:19.080; 41.9550 N, 20.1797 E; 3.4 Ml; 1.6 km from Zall-Xhuxhë, Lezhë, Albania</title>
+      <link>http://192.168.1.37/events/482/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_482" class="info_window">
+  <h3>Event <a href="/events/482/summary">20190309-6</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 12:24:19.080</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.9550&deg;N,&nbsp;20.1797&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.6 km from Zall-Xhuxhë, Lezhë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>4.3&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 12:54:14 GMT</pubDate>
+      <guid>http://192.168.1.37/events/482/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 09:20:25.530; 38.7202 N, 21.9635 E; 2.3 Ml</title>
+      <link>http://192.168.1.37/events/481/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_481" class="info_window">
+  <h3>Event <a href="/events/481/summary">20190309-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 09:20:25.530</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.7202&deg;N,&nbsp;21.9635&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>9.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 12:14:30 GMT</pubDate>
+      <guid>http://192.168.1.37/events/481/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 06:51:10.250; 41.8073 N, 20.3333 E; 1.3 Ml; 0.2 km from Zall-Dardhë, Dibër, Albania</title>
+      <link>http://192.168.1.37/events/480/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_480" class="info_window">
+  <h3>Event <a href="/events/480/summary">20190309-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 06:51:10.250</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8073&deg;N,&nbsp;20.3333&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.2 km from Zall-Dardhë, Dibër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>6.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 07:02:01 GMT</pubDate>
+      <guid>http://192.168.1.37/events/480/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 05:48:23.380; 41.9802 N, 20.1450 E; 2.3 Ml; 1.4 km from Plan, Lezhë, Albania</title>
+      <link>http://192.168.1.37/events/478/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_478" class="info_window">
+  <h3>Event <a href="/events/478/summary">20190309-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 05:48:23.380</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.9802&deg;N,&nbsp;20.1450&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Plan, Lezhë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 06:21:35 GMT</pubDate>
+      <guid>http://192.168.1.37/events/478/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 02:19:56.440; 40.0600 N, 20.2152 E; 1.5 Ml; 1.5 km from Letovisht, Gjirokastër, Albania</title>
+      <link>http://192.168.1.37/events/477/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_477" class="info_window">
+  <h3>Event <a href="/events/477/summary">20190309-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 02:19:56.440</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.0600&deg;N,&nbsp;20.2152&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.5 km from Letovisht, Gjirokastër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 06:07:35 GMT</pubDate>
+      <guid>http://192.168.1.37/events/477/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-09 00:36:18.420; 39.9613 N, 19.7083 E; 1.4 Ml; 13 km from Ereikoússa, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/479/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_479" class="info_window">
+  <h3>Event <a href="/events/479/summary">20190309-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-09 00:36:18.420</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.9613&deg;N,&nbsp;19.7083&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>13 km from Ereikoússa, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>6.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 06:33:45 GMT</pubDate>
+      <guid>http://192.168.1.37/events/479/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 19:46:43.270; 40.2073 N, 20.6322 E; 1.6 Ml; 1.3 km from Radanj, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/476/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_476" class="info_window">
+  <h3>Event <a href="/events/476/summary">20190308-6</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 19:46:43.270</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.2073&deg;N,&nbsp;20.6322&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.3 km from Radanj, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>4.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 21:08:11 GMT</pubDate>
+      <guid>http://192.168.1.37/events/476/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 11:48:06.260; 40.6412 N, 20.6945 E; 1.6 Ml; 0.6 km from Vinçan, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/475/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_475" class="info_window">
+  <h3>Event <a href="/events/475/summary">20190308-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 11:48:06.260</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.6412&deg;N,&nbsp;20.6945&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.6 km from Vinçan, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 16:47:32 GMT</pubDate>
+      <guid>http://192.168.1.37/events/475/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 11:42:03.810; 40.6555 N, 20.6738 E; 1.6 Ml; 0.9 km from Damjanec, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/474/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_474" class="info_window">
+  <h3>Event <a href="/events/474/summary">20190308-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 11:42:03.810</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.6555&deg;N,&nbsp;20.6738&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.9 km from Damjanec, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 16:40:59 GMT</pubDate>
+      <guid>http://192.168.1.37/events/474/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 11:18:01.340; 40.6147 N, 20.7068 E; 1.9 Ml; 1.4 km from Zagradishtë, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/473/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_473" class="info_window">
+  <h3>Event <a href="/events/473/summary">20190308-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 11:18:01.340</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.6147&deg;N,&nbsp;20.7068&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Zagradishtë, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>14.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 16:01:56 GMT</pubDate>
+      <guid>http://192.168.1.37/events/473/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 10:31:22.260; 40.7085 N, 20.6388 E; 2.4 Ml; 0.9 km from Plovisht-Bos, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/472/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_472" class="info_window">
+  <h3>Event <a href="/events/472/summary">20190308-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 10:31:22.260</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.7085&deg;N,&nbsp;20.6388&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.9 km from Plovisht-Bos, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>11.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 15:53:54 GMT</pubDate>
+      <guid>http://192.168.1.37/events/472/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-08 10:25:26.940; 40.6330 N, 20.7072 E; 2.0 Ml; 0.9 km from Goskova e Poshtme, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/471/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_471" class="info_window">
+  <h3>Event <a href="/events/471/summary">20190308-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-08 10:25:26.940</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.6330&deg;N,&nbsp;20.7072&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.9 km from Goskova e Poshtme, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>17.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 15:42:38 GMT</pubDate>
+      <guid>http://192.168.1.37/events/471/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-07 19:08:09.070; 45.1212 N, 17.9402 E; 3.6 Ml; 2.3 km from Lušćane, Srpska, Bosnia and Herzegovina</title>
+      <link>http://192.168.1.37/events/469/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_469" class="info_window">
+  <h3>Event <a href="/events/469/summary">20190307-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-07 19:08:09.070</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>45.1212&deg;N,&nbsp;17.9402&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.3 km from Lušćane, Srpska, Bosnia and Herzegovina</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>15.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Mar 2019 19:33:48 GMT</pubDate>
+      <guid>http://192.168.1.37/events/469/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-07 16:23:15.390; 41.8952 N, 20.1058 E; 2.6 Ml; 1.0 km from Shtrungaj, Lezhë, Albania</title>
+      <link>http://192.168.1.37/events/470/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_470" class="info_window">
+  <h3>Event <a href="/events/470/summary">20190307-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-07 16:23:15.390</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8952&deg;N,&nbsp;20.1058&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Shtrungaj, Lezhë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Mar 2019 15:27:16 GMT</pubDate>
+      <guid>http://192.168.1.37/events/470/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-07 15:08:10.020; 41.9843 N, 20.4672 E; 1.9 Ml; 1.0 km from Tërshenë, Kukës, Albania</title>
+      <link>http://192.168.1.37/events/468/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_468" class="info_window">
+  <h3>Event <a href="/events/468/summary">20190307-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-07 15:08:10.020</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.9843&deg;N,&nbsp;20.4672&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Tërshenë, Kukës, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>1.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Mar 2019 15:17:41 GMT</pubDate>
+      <guid>http://192.168.1.37/events/468/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-06 05:46:52.590; 41.8395 N, 19.5887 E; 2.8 Ml; 1.2 km from Demaj, Lezhë, Albania</title>
+      <link>http://192.168.1.37/events/467/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_467" class="info_window">
+  <h3>Event <a href="/events/467/summary">20190306-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-06 05:46:52.590</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8395&deg;N,&nbsp;19.5887&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.2 km from Demaj, Lezhë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>22.3&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 06 Mar 2019 06:03:05 GMT</pubDate>
+      <guid>http://192.168.1.37/events/467/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-05 01:07:21.920; 40.1150 N, 19.8140 E; 1.9 Ml; 1.7 km from Kudhës, Vlorë, Albania</title>
+      <link>http://192.168.1.37/events/466/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_466" class="info_window">
+  <h3>Event <a href="/events/466/summary">20190305-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-05 01:07:21.920</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.1150&deg;N,&nbsp;19.8140&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.7 km from Kudhës, Vlorë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>6.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 05 Mar 2019 22:25:58 GMT</pubDate>
+      <guid>http://192.168.1.37/events/466/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-04 22:47:52.560; 41.8975 N, 20.4262 E; 1.6 Ml; 1.1 km from Lapoj, Kukës, Albania</title>
+      <link>http://192.168.1.37/events/465/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_465" class="info_window">
+  <h3>Event <a href="/events/465/summary">20190304-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-04 22:47:52.560</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8975&deg;N,&nbsp;20.4262&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.1 km from Lapoj, Kukës, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 04 Mar 2019 23:24:26 GMT</pubDate>
+      <guid>http://192.168.1.37/events/465/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-04 15:53:00.080; 41.9960 N, 16.3073 E; 2.6 Ml; Adriatic Sea</title>
+      <link>http://192.168.1.37/events/464/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_464" class="info_window">
+  <h3>Event <a href="/events/464/summary">20190304-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-04 15:53:00.080</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.9960&deg;N,&nbsp;16.3073&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Adriatic Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>38.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 04 Mar 2019 16:49:01 GMT</pubDate>
+      <guid>http://192.168.1.37/events/464/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-03 17:19:22.730; 37.6695 N, 20.1632 E; 3.7 Ml; Mediterranean Sea; 47 km from Anafonitria, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/461/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_461" class="info_window">
+  <h3>Event <a href="/events/461/summary">20190303-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-03 17:19:22.730</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.6695&deg;N,&nbsp;20.1632&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 47 km from Anafonitria, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>13.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 17:39:46 GMT</pubDate>
+      <guid>http://192.168.1.37/events/461/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-03 17:03:25.800; 37.3458 N, 20.4568 E; 3.7 Ml; Mediterranean Sea; 47 km from Keri, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/460/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_460" class="info_window">
+  <h3>Event <a href="/events/460/summary">20190303-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-03 17:03:25.800</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.3458&deg;N,&nbsp;20.4568&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 47 km from Keri, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>2.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 17:29:30 GMT</pubDate>
+      <guid>http://192.168.1.37/events/460/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-03 11:53:05.250; 37.3493 N, 20.1217 E; 3.9 Ml; Mediterranean Sea</title>
+      <link>http://192.168.1.37/events/459/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_459" class="info_window">
+  <h3>Event <a href="/events/459/summary">20190303-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-03 11:53:05.250</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.3493&deg;N,&nbsp;20.1217&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 12:20:12 GMT</pubDate>
+      <guid>http://192.168.1.37/events/459/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-03 01:00:34.480; 39.7925 N, 20.6397 E; 2.0 Ml; 2.5 km from Vatatades, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/458/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_458" class="info_window">
+  <h3>Event <a href="/events/458/summary">20190303-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-03 01:00:34.480</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.7925&deg;N,&nbsp;20.6397&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.5 km from Vatatades, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>20.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 06:47:31 GMT</pubDate>
+      <guid>http://192.168.1.37/events/458/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-03 00:16:15.640; 40.0277 N, 19.8823 E; 2.6 Ml; 1.6 km from Qazim Pali, Vlorë, Albania</title>
+      <link>http://192.168.1.37/events/457/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_457" class="info_window">
+  <h3>Event <a href="/events/457/summary">20190303-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-03 00:16:15.640</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.0277&deg;N,&nbsp;19.8823&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.6 km from Qazim Pali, Vlorë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>28.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 01:23:03 GMT</pubDate>
+      <guid>http://192.168.1.37/events/457/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-02 17:38:57.800; 37.5402 N, 20.3117 E; 3.5 Ml; Mediterranean Sea; 41 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/456/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_456" class="info_window">
+  <h3>Event <a href="/events/456/summary">20190302-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-02 17:38:57.800</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.5402&deg;N,&nbsp;20.3117&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 41 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>5.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 02 Mar 2019 18:22:35 GMT</pubDate>
+      <guid>http://192.168.1.37/events/456/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-01 10:32:13.420; 40.6130 N, 20.6462 E; 3.0 Ml; 1.5 km from Lavdari i Korcës, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/454/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_454" class="info_window">
+  <h3>Event <a href="/events/454/summary">20190301-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-01 10:32:13.420</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.6130&deg;N,&nbsp;20.6462&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.5 km from Lavdari i Korcës, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>24.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 01 Mar 2019 10:51:12 GMT</pubDate>
+      <guid>http://192.168.1.37/events/454/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-01 07:27:27.660; 43.1792 N, 17.8060 E; 2.8 Ml; 0.8 km from Pijesci, Federation of B&amp;H, Bosnia and Herzegovina</title>
+      <link>http://192.168.1.37/events/453/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_453" class="info_window">
+  <h3>Event <a href="/events/453/summary">20190301-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-01 07:27:27.660</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>43.1792&deg;N,&nbsp;17.8060&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.8 km from Pijesci, Federation of B&amp;H, Bosnia and Herzegovina</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>3.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 01 Mar 2019 08:50:51 GMT</pubDate>
+      <guid>http://192.168.1.37/events/453/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-01 06:57:05.790; 41.8317 N, 20.1105 E; 1.2 Ml; 2.0 km from Ndërshenë, Lezhë, Albania</title>
+      <link>http://192.168.1.37/events/452/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_452" class="info_window">
+  <h3>Event <a href="/events/452/summary">20190301-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-01 06:57:05.790</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8317&deg;N,&nbsp;20.1105&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.0 km from Ndërshenë, Lezhë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>13.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 01 Mar 2019 08:34:46 GMT</pubDate>
+      <guid>http://192.168.1.37/events/452/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-01 05:26:16.250; 40.7972 N, 20.4347 E; 2.2 Ml; 2.2 km from Grabova e Sipërme, Elbasan, Albania</title>
+      <link>http://192.168.1.37/events/450/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_450" class="info_window">
+  <h3>Event <a href="/events/450/summary">20190301-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-01 05:26:16.250</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.7972&deg;N,&nbsp;20.4347&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.2 km from Grabova e Sipërme, Elbasan, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>0.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 01 Mar 2019 06:44:07 GMT</pubDate>
+      <guid>http://192.168.1.37/events/450/summary</guid>
+    </item>
+    <item>
+      <title>2019-03-01 04:02:17.080; 43.3205 N, 18.0642 E; 2.9 Ml; 2.4 km from Sopilja, Srpska, Bosnia and Herzegovina</title>
+      <link>http://192.168.1.37/events/451/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_451" class="info_window">
+  <h3>Event <a href="/events/451/summary">20190301-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-03-01 04:02:17.080</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>43.3205&deg;N,&nbsp;18.0642&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.4 km from Sopilja, Srpska, Bosnia and Herzegovina</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>1.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 01 Mar 2019 06:56:08 GMT</pubDate>
+      <guid>http://192.168.1.37/events/451/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-28 20:09:24.910; 37.6080 N, 20.1980 E; 5.0 Ml; Mediterranean Sea</title>
+      <link>http://192.168.1.37/events/449/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_449" class="info_window">
+  <h3>Event <a href="/events/449/summary">20190228-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-28 20:09:24.910</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.6080&deg;N,&nbsp;20.1980&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>13.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>5.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 28 Feb 2019 20:45:26 GMT</pubDate>
+      <guid>http://192.168.1.37/events/449/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-28 18:27:04.070; 37.4463 N, 19.8705 E; 3.1 Ml; Mediterranean Sea; 80 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/448/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_448" class="info_window">
+  <h3>Event <a href="/events/448/summary">20190228-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-28 18:27:04.070</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4463&deg;N,&nbsp;19.8705&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 80 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>12.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 28 Feb 2019 18:39:23 GMT</pubDate>
+      <guid>http://192.168.1.37/events/448/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-27 16:41:22.060; 41.1560 N, 23.3858 E; 3.6 Ml; 2.1 km from Gefyroudi, Central Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/447/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_447" class="info_window">
+  <h3>Event <a href="/events/447/summary">20190227-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-27 16:41:22.060</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.1560&deg;N,&nbsp;23.3858&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.1 km from Gefyroudi, Central Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>13.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 27 Feb 2019 16:57:39 GMT</pubDate>
+      <guid>http://192.168.1.37/events/447/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-27 00:09:34.780; 37.4312 N, 21.2938 E; 3.8 Ml; Mediterranean Sea; 25 km from Paralia, West Greece, Greece</title>
+      <link>http://192.168.1.37/events/446/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_446" class="info_window">
+  <h3>Event <a href="/events/446/summary">20190227-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-27 00:09:34.780</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4312&deg;N,&nbsp;21.2938&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 25 km from Paralia, West Greece, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>5.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 27 Feb 2019 05:56:08 GMT</pubDate>
+      <guid>http://192.168.1.37/events/446/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-26 20:05:44.910; 41.0857 N, 20.1602 E; 2.1 Ml; 1.6 km from Shushicë, Elbasan, Albania</title>
+      <link>http://192.168.1.37/events/463/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_463" class="info_window">
+  <h3>Event <a href="/events/463/summary">20190226-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-26 20:05:44.910</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.0857&deg;N,&nbsp;20.1602&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.6 km from Shushicë, Elbasan, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>3.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 03 Mar 2019 23:05:06 GMT</pubDate>
+      <guid>http://192.168.1.37/events/463/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-26 19:51:53.890; 41.0975 N, 20.2455 E; 2.8 Ml; 2.5 km from Sharë, Elbasan, Albania</title>
+      <link>http://192.168.1.37/events/445/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_445" class="info_window">
+  <h3>Event <a href="/events/445/summary">20190226-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-26 19:51:53.890</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.0975&deg;N,&nbsp;20.2455&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.5 km from Sharë, Elbasan, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>0.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 26 Feb 2019 20:09:03 GMT</pubDate>
+      <guid>http://192.168.1.37/events/445/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-26 10:05:54.900; 38.7090 N, 20.4210 E; 4.5 Ml; Mediterranean Sea</title>
+      <link>http://192.168.1.37/events/444/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_444" class="info_window">
+  <h3>Event <a href="/events/444/summary">20190226-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-26 10:05:54.900</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.7090&deg;N,&nbsp;20.4210&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>5.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>4.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 26 Feb 2019 12:06:07 GMT</pubDate>
+      <guid>http://192.168.1.37/events/444/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-26 04:51:35.770; 40.8392 N, 20.4957 E; 2.8 Ml; 5 km from Llëngë, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/443/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_443" class="info_window">
+  <h3>Event <a href="/events/443/summary">20190226-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-26 04:51:35.770</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.8392&deg;N,&nbsp;20.4957&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>5 km from Llëngë, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>2.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 26 Feb 2019 06:11:20 GMT</pubDate>
+      <guid>http://192.168.1.37/events/443/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-26 03:58:13.700; 40.3918 N, 19.3650 E; 2.3 Ml; 5.0 km from Shëngjin, Vlorë, Albania</title>
+      <link>http://192.168.1.37/events/442/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_442" class="info_window">
+  <h3>Event <a href="/events/442/summary">20190226-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-26 03:58:13.700</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.3918&deg;N,&nbsp;19.3650&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>5.0 km from Shëngjin, Vlorë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 26 Feb 2019 05:56:47 GMT</pubDate>
+      <guid>http://192.168.1.37/events/442/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-25 01:28:58.500; 39.9108 N, 19.7845 E; 1.9 Ml; 12 km from Agía Aikateríni, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/440/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_440" class="info_window">
+  <h3>Event <a href="/events/440/summary">20190225-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-25 01:28:58.500</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.9108&deg;N,&nbsp;19.7845&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>12 km from Agía Aikateríni, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>2.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 25 Feb 2019 05:55:03 GMT</pubDate>
+      <guid>http://192.168.1.37/events/440/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-24 21:57:00.550; 38.7260 N, 20.6345 E; 3.8 Ml</title>
+      <link>http://192.168.1.37/events/441/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_441" class="info_window">
+  <h3>Event <a href="/events/441/summary">20190224-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-24 21:57:00.550</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.7260&deg;N,&nbsp;20.6345&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>19.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 25 Feb 2019 06:51:14 GMT</pubDate>
+      <guid>http://192.168.1.37/events/441/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-24 10:41:31.140; 38.0308 N, 21.4668 E; 3.9 Ml; 1.0 km from Matarágka, West Greece, Greece</title>
+      <link>http://192.168.1.37/events/439/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_439" class="info_window">
+  <h3>Event <a href="/events/439/summary">20190224-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-24 10:41:31.140</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.0308&deg;N,&nbsp;21.4668&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Matarágka, West Greece, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>11.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 24 Feb 2019 11:06:31 GMT</pubDate>
+      <guid>http://192.168.1.37/events/439/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-24 06:47:27.040; 39.5663 N, 19.1637 E; 2.2 Ml; Mediterranean Sea</title>
+      <link>http://192.168.1.37/events/438/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_438" class="info_window">
+  <h3>Event <a href="/events/438/summary">20190224-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-24 06:47:27.040</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.5663&deg;N,&nbsp;19.1637&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>1.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 24 Feb 2019 07:13:27 GMT</pubDate>
+      <guid>http://192.168.1.37/events/438/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-22 23:47:25.450; 40.4960 N, 19.5675 E; 2.2 Ml; 1.4 km from Lubonjë, Vlorë, Albania</title>
+      <link>http://192.168.1.37/events/436/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_436" class="info_window">
+  <h3>Event <a href="/events/436/summary">20190222-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-22 23:47:25.450</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.4960&deg;N,&nbsp;19.5675&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Lubonjë, Vlorë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>19.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 23 Feb 2019 00:03:41 GMT</pubDate>
+      <guid>http://192.168.1.37/events/436/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-22 13:56:42.870; 43.6987 N, 18.5735 E; 3.0 Ml; 1.6 km from Hamzići, Federation of B&amp;H, Bosnia and Herzegovina</title>
+      <link>http://192.168.1.37/events/435/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_435" class="info_window">
+  <h3>Event <a href="/events/435/summary">20190222-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-22 13:56:42.870</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>43.6987&deg;N,&nbsp;18.5735&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.6 km from Hamzići, Federation of B&amp;H, Bosnia and Herzegovina</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>9.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 22 Feb 2019 14:18:13 GMT</pubDate>
+      <guid>http://192.168.1.37/events/435/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-22 01:24:36.410; 40.1253 N, 19.8503 E; 2.1 Ml; 1.8 km from Çorraj, Vlorë, Albania</title>
+      <link>http://192.168.1.37/events/437/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_437" class="info_window">
+  <h3>Event <a href="/events/437/summary">20190222-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-22 01:24:36.410</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.1253&deg;N,&nbsp;19.8503&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.8 km from Çorraj, Vlorë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>0.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 23 Feb 2019 08:06:00 GMT</pubDate>
+      <guid>http://192.168.1.37/events/437/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-21 18:40:36.300; 37.4842 N, 20.2770 E; 3.9 Ml; Mediterranean Sea; 47 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/434/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_434" class="info_window">
+  <h3>Event <a href="/events/434/summary">20190221-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-21 18:40:36.300</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4842&deg;N,&nbsp;20.2770&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 47 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>8.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 21 Feb 2019 19:20:42 GMT</pubDate>
+      <guid>http://192.168.1.37/events/434/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-21 03:55:27.350; 42.0555 N, 20.0557 E; 1.4 Ml; 0.6 km from Lumëbardhë, Shkodër, Albania</title>
+      <link>http://192.168.1.37/events/433/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_433" class="info_window">
+  <h3>Event <a href="/events/433/summary">20190221-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-21 03:55:27.350</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>42.0555&deg;N,&nbsp;20.0557&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.6 km from Lumëbardhë, Shkodër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 21 Feb 2019 05:36:53 GMT</pubDate>
+      <guid>http://192.168.1.37/events/433/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-20 20:20:37.340; 37.7352 N, 20.2473 E; 3.8 Ml; Mediterranean Sea</title>
+      <link>http://192.168.1.37/events/432/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_432" class="info_window">
+  <h3>Event <a href="/events/432/summary">20190220-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-20 20:20:37.340</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.7352&deg;N,&nbsp;20.2473&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 20 Feb 2019 20:46:24 GMT</pubDate>
+      <guid>http://192.168.1.37/events/432/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-20 16:32:37.800; 40.4738 N, 16.0907 E; 2.5 Ml; 1.5 km from Castagna, Basilicate, Italy</title>
+      <link>http://192.168.1.37/events/431/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_431" class="info_window">
+  <h3>Event <a href="/events/431/summary">20190220-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-20 16:32:37.800</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.4738&deg;N,&nbsp;16.0907&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.5 km from Castagna, Basilicate, Italy</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>49.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 20 Feb 2019 16:51:08 GMT</pubDate>
+      <guid>http://192.168.1.37/events/431/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-20 14:49:07.230; 37.5672 N, 20.0475 E; 3.2 Ml; Mediterranean Sea; 61 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/427/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_427" class="info_window">
+  <h3>Event <a href="/events/427/summary">20190220-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-20 14:49:07.230</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.5672&deg;N,&nbsp;20.0475&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 61 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>0.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 20 Feb 2019 15:15:03 GMT</pubDate>
+      <guid>http://192.168.1.37/events/427/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-19 06:32:40.160; 41.6957 N, 20.1157 E; 2.6 Ml</title>
+      <link>http://192.168.1.37/events/423/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_423" class="info_window">
+  <h3>Event <a href="/events/423/summary">20190219-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-19 06:32:40.160</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.6957&deg;N,&nbsp;20.1157&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>9.3&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 19 Feb 2019 09:29:30 GMT</pubDate>
+      <guid>http://192.168.1.37/events/423/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-19 05:31:20.580; 37.4542 N, 19.7022 E; 3.7 Ml; Mediterranean Sea; 94 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/422/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_422" class="info_window">
+  <h3>Event <a href="/events/422/summary">20190219-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-19 05:31:20.580</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4542&deg;N,&nbsp;19.7022&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 94 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>6.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 19 Feb 2019 06:14:11 GMT</pubDate>
+      <guid>http://192.168.1.37/events/422/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-19 02:59:35.150; 37.3200 N, 21.0710 E; 3.9 Ml; Mediterranean Sea; 9 km from Moni Strofadon, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/421/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_421" class="info_window">
+  <h3>Event <a href="/events/421/summary">20190219-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-19 02:59:35.150</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.3200&deg;N,&nbsp;21.0710&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 9 km from Moni Strofadon, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>8.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 19 Feb 2019 03:15:08 GMT</pubDate>
+      <guid>http://192.168.1.37/events/421/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-19 00:10:22.860; 41.6743 N, 20.2142 E; 1.3 Ml; 4.0 km from Selitë, Dibër, Albania</title>
+      <link>http://192.168.1.37/events/420/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_420" class="info_window">
+  <h3>Event <a href="/events/420/summary">20190219-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-19 00:10:22.860</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.6743&deg;N,&nbsp;20.2142&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>4.0 km from Selitë, Dibër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 19 Feb 2019 00:40:08 GMT</pubDate>
+      <guid>http://192.168.1.37/events/420/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-18 22:22:02.180; 41.4772 N, 15.7852 E; 1.9 Ml; 3.0 km from Lago della Contessa, Apulia, Italy</title>
+      <link>http://192.168.1.37/events/419/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_419" class="info_window">
+  <h3>Event <a href="/events/419/summary">20190218-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-18 22:22:02.180</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.4772&deg;N,&nbsp;15.7852&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>3.0 km from Lago della Contessa, Apulia, Italy</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>1.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 18 Feb 2019 22:36:06 GMT</pubDate>
+      <guid>http://192.168.1.37/events/419/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-18 19:42:40.470; 37.8215 N, 19.9828 E; 3.2 Ml; Mediterranean Sea; 51 km from Kounopetra, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/418/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_418" class="info_window">
+  <h3>Event <a href="/events/418/summary">20190218-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-18 19:42:40.470</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.8215&deg;N,&nbsp;19.9828&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 51 km from Kounopetra, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>2.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 18 Feb 2019 21:25:51 GMT</pubDate>
+      <guid>http://192.168.1.37/events/418/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-18 18:39:38.000; 37.6055 N, 20.5003 E; 3.1 Ml; Mediterranean Sea; 24 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/417/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_417" class="info_window">
+  <h3>Event <a href="/events/417/summary">20190218-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-18 18:39:38.000</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.6055&deg;N,&nbsp;20.5003&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 24 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 18 Feb 2019 18:58:23 GMT</pubDate>
+      <guid>http://192.168.1.37/events/417/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-18 15:46:33.010; 38.9335 N, 20.4412 E; 3.1 Ml; Mediterranean Sea; 22 km from Agios Nikitas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/416/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_416" class="info_window">
+  <h3>Event <a href="/events/416/summary">20190218-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-18 15:46:33.010</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.9335&deg;N,&nbsp;20.4412&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 22 km from Agios Nikitas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 18 Feb 2019 16:46:15 GMT</pubDate>
+      <guid>http://192.168.1.37/events/416/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-17 21:21:33.680; 41.3962 N, 19.3698 E; 3.0 Ml; 5 km from Bishtkamzë, Durrës, Albania</title>
+      <link>http://192.168.1.37/events/413/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_413" class="info_window">
+  <h3>Event <a href="/events/413/summary">20190217-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-17 21:21:33.680</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.3962&deg;N,&nbsp;19.3698&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>5 km from Bishtkamzë, Durrës, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.9&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 17 Feb 2019 21:41:14 GMT</pubDate>
+      <guid>http://192.168.1.37/events/413/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-17 19:08:01.510; 38.0065 N, 22.5990 E; 4.5 Ml; 2.2 km from Throfari, Peloponnese, Greece</title>
+      <link>http://192.168.1.37/events/412/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_412" class="info_window">
+  <h3>Event <a href="/events/412/summary">20190217-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-17 19:08:01.510</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.0065&deg;N,&nbsp;22.5990&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.2 km from Throfari, Peloponnese, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>8.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>4.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 17 Feb 2019 19:42:48 GMT</pubDate>
+      <guid>http://192.168.1.37/events/412/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-17 13:31:49.800; 39.1742 N, 21.8570 E; 2.6 Ml; 1.9 km from Arápis, Thessaly, Greece</title>
+      <link>http://192.168.1.37/events/411/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_411" class="info_window">
+  <h3>Event <a href="/events/411/summary">20190217-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-17 13:31:49.800</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.1742&deg;N,&nbsp;21.8570&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.9 km from Arápis, Thessaly, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>10.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 17 Feb 2019 13:50:29 GMT</pubDate>
+      <guid>http://192.168.1.37/events/411/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-17 01:59:14.320; 40.2340 N, 20.0067 E; 1.8 Ml; 2.3 km from Bencia, Gjirokastër, Albania</title>
+      <link>http://192.168.1.37/events/410/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_410" class="info_window">
+  <h3>Event <a href="/events/410/summary">20190217-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-17 01:59:14.320</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.2340&deg;N,&nbsp;20.0067&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.3 km from Bencia, Gjirokastër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>0.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 17 Feb 2019 09:04:44 GMT</pubDate>
+      <guid>http://192.168.1.37/events/410/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-16 16:20:23.940; 41.4833 N, 19.7330 E; 1.4 Ml; 1.4 km from Fushë-Krujë, Durrës, Albania</title>
+      <link>http://192.168.1.37/events/409/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_409" class="info_window">
+  <h3>Event <a href="/events/409/summary">20190216-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-16 16:20:23.940</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.4833&deg;N,&nbsp;19.7330&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Fushë-Krujë, Durrës, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>4.0e-02&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 16 Feb 2019 16:47:23 GMT</pubDate>
+      <guid>http://192.168.1.37/events/409/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-16 16:09:29.020; 39.7898 N, 20.6215 E; 2.4 Ml; 1.3 km from Katarraktis, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/408/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_408" class="info_window">
+  <h3>Event <a href="/events/408/summary">20190216-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-16 16:09:29.020</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.7898&deg;N,&nbsp;20.6215&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.3 km from Katarraktis, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>23.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 16 Feb 2019 16:39:57 GMT</pubDate>
+      <guid>http://192.168.1.37/events/408/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-16 12:40:03.900; 39.7912 N, 20.6227 E; 2.4 Ml; 1.4 km from Katarraktis, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/407/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_407" class="info_window">
+  <h3>Event <a href="/events/407/summary">20190216-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-16 12:40:03.900</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.7912&deg;N,&nbsp;20.6227&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Katarraktis, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>22.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 16 Feb 2019 12:49:37 GMT</pubDate>
+      <guid>http://192.168.1.37/events/407/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-16 11:25:18.740; 39.7653 N, 20.6317 E; 3.1 Ml; 1.0 km from Sakellariko, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/406/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_406" class="info_window">
+  <h3>Event <a href="/events/406/summary">20190216-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-16 11:25:18.740</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.7653&deg;N,&nbsp;20.6317&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Sakellariko, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 16 Feb 2019 11:39:45 GMT</pubDate>
+      <guid>http://192.168.1.37/events/406/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-16 01:57:08.320; 37.2593 N, 20.4002 E; 4.5 Ml; Mediterranean Sea; 54 km from Moni Strofadon, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/405/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_405" class="info_window">
+  <h3>Event <a href="/events/405/summary">20190216-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-16 01:57:08.320</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.2593&deg;N,&nbsp;20.4002&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 54 km from Moni Strofadon, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>8.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>4.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 16 Feb 2019 02:14:51 GMT</pubDate>
+      <guid>http://192.168.1.37/events/405/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-15 05:25:11.120; 40.8110 N, 22.0838 E; 3.1 Ml; 1.2 km from Samári, Central Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/403/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_403" class="info_window">
+  <h3>Event <a href="/events/403/summary">20190215-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-15 05:25:11.120</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.8110&deg;N,&nbsp;22.0838&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.2 km from Samári, Central Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>13.3&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 15 Feb 2019 05:46:41 GMT</pubDate>
+      <guid>http://192.168.1.37/events/403/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-15 04:24:19.910; 40.8208 N, 22.1013 E; 2.9 Ml; 0.7 km from Samári, Central Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/404/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_404" class="info_window">
+  <h3>Event <a href="/events/404/summary">20190215-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-15 04:24:19.910</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.8208&deg;N,&nbsp;22.1013&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.7 km from Samári, Central Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>12.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 15 Feb 2019 05:56:09 GMT</pubDate>
+      <guid>http://192.168.1.37/events/404/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-15 02:14:07.130; 39.8208 N, 20.6635 E; 2.5 Ml; 1.3 km from Vatatades, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/402/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_402" class="info_window">
+  <h3>Event <a href="/events/402/summary">20190215-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-15 02:14:07.130</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.8208&deg;N,&nbsp;20.6635&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.3 km from Vatatades, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>23.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 15 Feb 2019 02:26:47 GMT</pubDate>
+      <guid>http://192.168.1.37/events/402/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-15 01:18:28.630; 39.3853 N, 20.6262 E; 3.7 Ml; 3.3 km from Soúli, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/400/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_400" class="info_window">
+  <h3>Event <a href="/events/400/summary">20190215-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-15 01:18:28.630</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.3853&deg;N,&nbsp;20.6262&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>3.3 km from Soúli, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>25.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 15 Feb 2019 01:38:21 GMT</pubDate>
+      <guid>http://192.168.1.37/events/400/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-15 00:34:10.990; 39.9682 N, 20.6883 E; 2.3 Ml; 1.0 km from Kleidonia, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/401/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_401" class="info_window">
+  <h3>Event <a href="/events/401/summary">20190215-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-15 00:34:10.990</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.9682&deg;N,&nbsp;20.6883&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.0 km from Kleidonia, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>2.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 15 Feb 2019 01:47:24 GMT</pubDate>
+      <guid>http://192.168.1.37/events/401/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-13 17:25:52.550; 40.2273 N, 21.0625 E; 2.6 Ml; 3.6 km from Eptachori, West Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/396/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_396" class="info_window">
+  <h3>Event <a href="/events/396/summary">20190213-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-13 17:25:52.550</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.2273&deg;N,&nbsp;21.0625&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>3.6 km from Eptachori, West Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>5.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 13 Feb 2019 19:14:21 GMT</pubDate>
+      <guid>http://192.168.1.37/events/396/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-13 16:59:28.520; 37.8762 N, 20.3772 E; 2.8 Ml; Mediterranean Sea; 24 km from Anafonitria, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/397/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_397" class="info_window">
+  <h3>Event <a href="/events/397/summary">20190213-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-13 16:59:28.520</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.8762&deg;N,&nbsp;20.3772&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 24 km from Anafonitria, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>17.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 13 Feb 2019 19:27:59 GMT</pubDate>
+      <guid>http://192.168.1.37/events/397/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-13 16:18:40.780; 38.3873 N, 22.1910 E; 2.9 Ml; 2.2 km from Tolofón, Central Greece, Greece</title>
+      <link>http://192.168.1.37/events/395/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_395" class="info_window">
+  <h3>Event <a href="/events/395/summary">20190213-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-13 16:18:40.780</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.3873&deg;N,&nbsp;22.1910&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.2 km from Tolofón, Central Greece, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>14.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 13 Feb 2019 18:49:42 GMT</pubDate>
+      <guid>http://192.168.1.37/events/395/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-13 08:39:45.850; 37.4958 N, 20.6508 E; 3.3 Ml; Mediterranean Sea; 23 km from Keri, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/394/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_394" class="info_window">
+  <h3>Event <a href="/events/394/summary">20190213-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-13 08:39:45.850</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4958&deg;N,&nbsp;20.6508&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 23 km from Keri, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.3 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Wed, 13 Feb 2019 16:58:11 GMT</pubDate>
+      <guid>http://192.168.1.37/events/394/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-12 06:30:29.140; 39.4972 N, 20.7927 E; 2.8 Ml</title>
+      <link>http://192.168.1.37/events/393/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_393" class="info_window">
+  <h3>Event <a href="/events/393/summary">20190212-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-12 06:30:29.140</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.4972&deg;N,&nbsp;20.7927&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>10.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Tue, 12 Feb 2019 06:59:33 GMT</pubDate>
+      <guid>http://192.168.1.37/events/393/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-11 19:12:41.780; 39.6908 N, 20.4743 E; 3.7 Ml; 0.3 km from Charavgí, Epirus, Greece</title>
+      <link>http://192.168.1.37/events/392/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_392" class="info_window">
+  <h3>Event <a href="/events/392/summary">20190211-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-11 19:12:41.780</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.6908&deg;N,&nbsp;20.4743&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.3 km from Charavgí, Epirus, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>10.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 11 Feb 2019 19:24:24 GMT</pubDate>
+      <guid>http://192.168.1.37/events/392/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-11 18:57:17.190; 40.7098 N, 19.6375 E; 2.5 Ml; 0.3 km from Fshati i Ri, Fier, Albania</title>
+      <link>http://192.168.1.37/events/399/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_399" class="info_window">
+  <h3>Event <a href="/events/399/summary">20190211-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-11 18:57:17.190</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.7098&deg;N,&nbsp;19.6375&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.3 km from Fshati i Ri, Fier, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>1.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 14 Feb 2019 10:20:37 GMT</pubDate>
+      <guid>http://192.168.1.37/events/399/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-11 16:08:20.860; 41.4830 N, 20.2550 E; 2.2 Ml; 1.9 km from Duricaj, Dibër, Albania</title>
+      <link>http://192.168.1.37/events/390/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_390" class="info_window">
+  <h3>Event <a href="/events/390/summary">20190211-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-11 16:08:20.860</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.4830&deg;N,&nbsp;20.2550&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.9 km from Duricaj, Dibër, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>12.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.2 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Mon, 11 Feb 2019 16:19:42 GMT</pubDate>
+      <guid>http://192.168.1.37/events/390/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-10 19:00:23.150; 41.8020 N, 16.7440 E; 3.4 Ml; Adriatic Sea; 47 km from Pugnochiuso, Apulia, Italy</title>
+      <link>http://192.168.1.37/events/389/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_389" class="info_window">
+  <h3>Event <a href="/events/389/summary">20190210-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-10 19:00:23.150</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.8020&deg;N,&nbsp;16.7440&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Adriatic Sea; 47 km from Pugnochiuso, Apulia, Italy</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 10 Feb 2019 20:27:57 GMT</pubDate>
+      <guid>http://192.168.1.37/events/389/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-10 14:53:13.590; 38.8772 N, 20.3045 E; 1.7 Ml; Mediterranean Sea; 29 km from Agios Nikitas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/388/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_388" class="info_window">
+  <h3>Event <a href="/events/388/summary">20190210-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-10 14:53:13.590</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.8772&deg;N,&nbsp;20.3045&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 29 km from Agios Nikitas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 10 Feb 2019 15:39:22 GMT</pubDate>
+      <guid>http://192.168.1.37/events/388/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-10 02:07:00.400; 40.2247 N, 21.8123 E; 3.4 Ml; 0.8 km from Miliá, West Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/387/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_387" class="info_window">
+  <h3>Event <a href="/events/387/summary">20190210-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-10 02:07:00.400</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.2247&deg;N,&nbsp;21.8123&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>0.8 km from Miliá, West Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>23.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.4 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sun, 10 Feb 2019 07:19:16 GMT</pubDate>
+      <guid>http://192.168.1.37/events/387/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-09 17:46:27.200; 40.4825 N, 23.3702 E; 2.8 Ml; 2.0 km from Ágios Pródromos, Central Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/386/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_386" class="info_window">
+  <h3>Event <a href="/events/386/summary">20190209-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-09 17:46:27.200</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.4825&deg;N,&nbsp;23.3702&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.0 km from Ágios Pródromos, Central Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>23.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Feb 2019 18:54:09 GMT</pubDate>
+      <guid>http://192.168.1.37/events/386/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-09 17:23:31.430; 40.0868 N, 20.3810 E; 1.6 Ml</title>
+      <link>http://192.168.1.37/events/385/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_385" class="info_window">
+  <h3>Event <a href="/events/385/summary">20190209-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-09 17:23:31.430</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.0868&deg;N,&nbsp;20.3810&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>35.4&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Feb 2019 18:39:47 GMT</pubDate>
+      <guid>http://192.168.1.37/events/385/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-09 12:43:28.160; 39.7972 N, 20.8198 E; 3.1 Ml</title>
+      <link>http://192.168.1.37/events/384/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_384" class="info_window">
+  <h3>Event <a href="/events/384/summary">20190209-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-09 12:43:28.160</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.7972&deg;N,&nbsp;20.8198&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>7.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Sat, 09 Feb 2019 13:42:49 GMT</pubDate>
+      <guid>http://192.168.1.37/events/384/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-08 19:57:20.760; 37.5752 N, 20.5168 E; 2.8 Ml; Mediterranean Sea; 25 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/381/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_381" class="info_window">
+  <h3>Event <a href="/events/381/summary">20190208-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-08 19:57:20.760</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.5752&deg;N,&nbsp;20.5168&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 25 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>17.5&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Feb 2019 20:40:03 GMT</pubDate>
+      <guid>http://192.168.1.37/events/381/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-08 15:08:42.510; 38.6757 N, 22.1507 E; 2.9 Ml; 3.2 km from Athanásios Diákos, Central Greece, Greece</title>
+      <link>http://192.168.1.37/events/378/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_378" class="info_window">
+  <h3>Event <a href="/events/378/summary">20190208-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-08 15:08:42.510</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>38.6757&deg;N,&nbsp;22.1507&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>3.2 km from Athanásios Diákos, Central Greece, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>10.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.9 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Feb 2019 15:51:47 GMT</pubDate>
+      <guid>http://192.168.1.37/events/378/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-08 14:58:03.520; 40.0315 N, 21.7675 E; 1.6 Ml; 1.8 km from Skoúmtsia, West Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/377/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_377" class="info_window">
+  <h3>Event <a href="/events/377/summary">20190208-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-08 14:58:03.520</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.0315&deg;N,&nbsp;21.7675&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.8 km from Skoúmtsia, West Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>20.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>1.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Feb 2019 15:38:11 GMT</pubDate>
+      <guid>http://192.168.1.37/events/377/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-08 14:33:24.760; 37.4397 N, 20.3280 E; 3.7 Ml; Mediterranean Sea; 48 km from Limnionas, Ionian Islands, Greece</title>
+      <link>http://192.168.1.37/events/379/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_379" class="info_window">
+  <h3>Event <a href="/events/379/summary">20190208-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-08 14:33:24.760</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.4397&deg;N,&nbsp;20.3280&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 48 km from Limnionas, Ionian Islands, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>17.7&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Feb 2019 17:31:21 GMT</pubDate>
+      <guid>http://192.168.1.37/events/379/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-08 13:38:08.500; 37.6902 N, 21.9870 E; 2.6 Ml</title>
+      <link>http://192.168.1.37/events/380/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_380" class="info_window">
+  <h3>Event <a href="/events/380/summary">20190208-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-08 13:38:08.500</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>37.6902&deg;N,&nbsp;21.9870&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>18.0&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.6 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Fri, 08 Feb 2019 18:24:31 GMT</pubDate>
+      <guid>http://192.168.1.37/events/380/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-07 23:22:10.200; 39.2585 N, 23.5902 E; 3.7 Ml; Mediterranean Sea; 10 km from Glóssa, Thessaly, Greece</title>
+      <link>http://192.168.1.37/events/376/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_376" class="info_window">
+  <h3>Event <a href="/events/376/summary">20190207-5</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-07 23:22:10.200</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>39.2585&deg;N,&nbsp;23.5902&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>Mediterranean Sea; 10 km from Glóssa, Thessaly, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.8&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.7 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Feb 2019 23:36:53 GMT</pubDate>
+      <guid>http://192.168.1.37/events/376/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-07 22:06:41.710; 41.1825 N, 20.2993 E; 2.1 Ml; 1.4 km from Librazhd, Elbasan, Albania</title>
+      <link>http://192.168.1.37/events/375/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_375" class="info_window">
+  <h3>Event <a href="/events/375/summary">20190207-4</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-07 22:06:41.710</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>41.1825&deg;N,&nbsp;20.2993&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.4 km from Librazhd, Elbasan, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>16.6&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.1 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Feb 2019 22:21:56 GMT</pubDate>
+      <guid>http://192.168.1.37/events/375/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-07 20:54:05.890; 40.4542 N, 20.7357 E; 2.5 Ml; 1.1 km from Kozel, Korçë, Albania</title>
+      <link>http://192.168.1.37/events/374/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_374" class="info_window">
+  <h3>Event <a href="/events/374/summary">20190207-3</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-07 20:54:05.890</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.4542&deg;N,&nbsp;20.7357&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>1.1 km from Kozel, Korçë, Albania</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>11.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.5 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Feb 2019 21:09:16 GMT</pubDate>
+      <guid>http://192.168.1.37/events/374/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-07 16:19:56.870; 40.8250 N, 20.9935 E; 2.8 Ml; 3.2 km from Psarades, West Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/373/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_373" class="info_window">
+  <h3>Event <a href="/events/373/summary">20190207-2</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-07 16:19:56.870</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.8250&deg;N,&nbsp;20.9935&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>3.2 km from Psarades, West Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>9.1&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>2.8 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Feb 2019 16:34:28 GMT</pubDate>
+      <guid>http://192.168.1.37/events/373/summary</guid>
+    </item>
+    <item>
+      <title>2019-02-07 15:24:56.850; 40.8097 N, 21.0147 E; 3.0 Ml; 2.7 km from Psarades, West Macedonia, Greece</title>
+      <link>http://192.168.1.37/events/372/summary</link>
+      <description>
+        <![CDATA[<div id="map_info_372" class="info_window">
+  <h3>Event <a href="/events/372/summary">20190207-1</a></h3>
+  <table>
+    <tr>
+      <th align="right">Time:</th>
+      <td>2019-02-07 15:24:56.850</td>
+    </tr>
+    <tr>
+      <th align="right">Position:</th>
+      <td>40.8097&deg;N,&nbsp;21.0147&deg;E</td>
+    </tr>
+    <tr>
+      <th align="right">Place:</th>
+      <td>2.7 km from Psarades, West Macedonia, Greece</td>
+    </tr>
+    <tr>
+      <th align="right">Major Place:</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="right">Depth:</th>
+      <td>15.2&nbsp;km</td>
+    </tr>
+    <tr>
+      <th align="right">Magnitude:</th>
+      <td>3.0 Ml</td>
+    </tr>
+  </table>
+</div>
+]]>
+      </description>
+      <pubDate>Thu, 07 Feb 2019 15:45:05 GMT</pubDate>
+      <guid>http://192.168.1.37/events/372/summary</guid>
+    </item>
+  </channel>
+</rss>
