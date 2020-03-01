@@ -45,6 +45,7 @@ def push():
         return {}
     eq = parseXml(open('./tmpfile'))
     eq.save()
+    os.remove('./tmpfile')
     return {},200
     
 app.run(debug=True, port=8008)
