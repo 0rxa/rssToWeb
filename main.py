@@ -1,7 +1,7 @@
-from flask import Flask, escape, request
 from bs4 import BeautifulSoup
-from eq import *
-import os
+from inotify_simple import INotify, flags
+
+from db import *
 
 def parseXml(rss):
     soup = BeautifulSoup(rss, 'lxml')
@@ -24,33 +24,20 @@ def parseXml(rss):
         elif 'Magnitude' in i.select('th')[0].text:
             magnitude = i.select('td')[0].text
 
-    ret = Earthquake(
+    return earthquakes(
             datetime = dtime,
             latitude=latitude,
             longitude=longitude,
             position=position,
             depth=depth,
             magnitude=magnitude)
-    return ret
 
-app = Flask(__name__)
+path = './feed.rss'
+wf = flags.MODIFY
 
-@app.route('/', methods=['POST'])
-# @notification.post_notify()
-def push():
-    rss = request.files['data']
-    rss.save('./tmpfile')
-    if not rss:
-        print("No file provided")
-        return {}
-    eq = parseXml(open('./tmpfile'))
-
-    if not Earthquake.select()\
-            .where(Earthquake.datetime == eq.datetime,\
-                Earthquake.depth == eq.depth, \
-                Earthquake.position == eq.position):
-        eq.save()
-    os.remove('./tmpfile')
-    return {},200
-    
-app.run(debug=True, port=8008)
+while True:
+    inotify = INotify()
+    wd = inotify.add_watch(path, wf)
+    for event in inotify.read():
+        rss = open(path)
+        print(parseXml(rss).datetime)
