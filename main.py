@@ -40,4 +40,5 @@ while True:
     wd = inotify.add_watch(path, wf)
     for event in inotify.read():
         rss = open(path)
-        parseXml(rss).save()
+        eq = parseXml(rss)
+        eq.save()

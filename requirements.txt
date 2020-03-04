@@ -4,4 +4,5 @@ inotify-simple==1.3.3
 lxml==4.5.0
 nose==1.3.7
 peewee==3.13.1
+PyMySQL==0.9.3
 soupsieve==2.0
